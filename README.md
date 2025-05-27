@@ -2,6 +2,8 @@
 
 An AI-powered Telegram bot for seamless language and image translation, enabling travelers to communicate and navigate confidently.
 
+![image](https://github.com/user-attachments/assets/99e187f6-6f5e-409e-82cb-47b200d9527c)
+
 ---
 
 ## 🌍 Use Case Overview
